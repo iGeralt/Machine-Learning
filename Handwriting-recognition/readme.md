@@ -1,1 +1,2 @@
-# Learning ocr using tensorflow and keras 
+## Learning ocr using tensorflow and keras from https://www.pyimagesearch.com/ tutorials
+
